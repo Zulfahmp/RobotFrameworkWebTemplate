@@ -1,0 +1,6 @@
+.env
+*.png
+*.jpg
+log.html
+*.xml
+report.html
